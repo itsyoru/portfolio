@@ -8,7 +8,9 @@ export default function Page() {
       </h1>
       <p className="mb-4">
         {`Welcome to my website! My name is Fawad and I'm a recent graduate with a BS in Computer Science.
-        I'm currently looking for a Software Engineering role. Hire me?`}
+        I'm currently looking for a Software Engineering role.
+        
+        Hire me?`}
       </p>
       <div className="my-8">
         <BlogPosts />
